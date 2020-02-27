@@ -13,11 +13,12 @@ Sample Output:  https://youtu.be/Ni1K11pzmyE
 
 # My Autopano:
 Keyword: poisson filter, Non-maximal supression, SIFT, feature matching, RANSAC  
-Sample Output:  https://github.com/davidwang318/ComputerVision-Classical/blob/master/MyAutoPano/Autopano_Report.pdf
+Sample Output:  
+https://github.com/davidwang318/ComputerVision-Classical/blob/master/MyAutoPano/Autopano_Report.pdf
 
 # Pb-Lite edge detection:
-Keyword: edge detection, filter banks
+Keyword: edge detection, filter banks  
 
 # Traffic sign detection:
-Keyword: MSER, HOG descriptor, SVM, Exemplar SVM, feature detection
+Keyword: MSER, HOG descriptor, SVM, Exemplar SVM, feature detection  
 Sample Output:  https://youtu.be/jSfqYfkReRA
