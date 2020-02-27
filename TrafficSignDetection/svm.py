@@ -112,7 +112,7 @@ def predictExemplarSVM(svm_ex, feature, threshold=0.4):
         if c in [45, 21, 38, 35, 17, 1, 14, 19]: 
             confidence |= prob.reshape(-1) > threshold
         else:
-            # If high chance false, still True
+            # If high chance false, become false
             both = np.logical_not(confidence & (prob.reshape(-1) > 0.8))
             confidence &= both
 
