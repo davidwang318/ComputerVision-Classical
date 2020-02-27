@@ -5,6 +5,7 @@ The RobustAutopano.py is a version that has the ability to find the order of the
 # Running Instructions
 1. Clone the file.
 2. $ cd Code/
-3. $ python *filename* --InputPath="*inputImage_path*" --InputSet="*inputImage_folder*"  Example: $ python NaiveAutoPano.py --InputPath="~/Autopano/Data/Train/" --InputSet="Set1/"
+3. $ python *filename* --InputPath="*inputImage_path*" --InputSet="*inputImage_folder*"  
+Example: $ python NaiveAutoPano.py --InputPath="~/Autopano/Data/Train/" --InputSet="Set1/"
 
 The results and detail implementations are in the report. Please download it if you're interested.
