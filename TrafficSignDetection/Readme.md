@@ -1,4 +1,4 @@
-Using algorithm: MSER, HOG descriptor, SVM, Exemplar SVM
+Using algorithm: MSER, HOG descriptor, SVM, Exemplar SVM  
 Output Video: https://youtu.be/jSfqYfkReRA
 
 ====================================
