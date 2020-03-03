@@ -1,4 +1,3 @@
-#Traffic Sign Detection  
 Using algorithm: MSER, HOG descriptor, SVM, Exemplar SVM
 Output Video: https://youtu.be/jSfqYfkReRA
 
