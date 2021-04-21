@@ -1,6 +1,6 @@
 import numpy as np
-from findHomography import *
-from utils import *
+from utils.findHomography import *
+from utils.utils import *
 
 def v(H, p, q):
     return np.array([[H[0,p] * H[0,q],
@@ -53,7 +53,7 @@ def extrinsicHealper(K, H, trueR):
     return np.array(P)
 
 
-def estimateCameraParameters(H, trueR=True):
+def estimateCameraParameter(H, trueR=True):
     A = []
     for h in H:
         row_tmp = homographyRow(h)
